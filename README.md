@@ -24,3 +24,9 @@ Then install any of the available formulae:
 ```bash
 brew install mac-clip
 ```
+Update mac-clip(if needed) 
+
+```bash
+brew update
+brew upgrade mac-clip
+```
